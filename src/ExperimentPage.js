@@ -278,7 +278,7 @@ export default function ExperimentPage() {
               />
             </label>
           </div>
-          <p className="tab-footer-note">このシナリオの全曲にスコアを付けると自動保存されます。切替えても入力は保持されます。</p>
+          <p className="tab-footer-note">切替えても入力は保持されます。</p>
         </div>
       </div>
     </div>
